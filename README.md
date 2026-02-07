@@ -24,3 +24,19 @@ The solutions are organized by the LeetHub extension, typically following this h
 * [Striver’s A2Z DSA Course]([https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z])
 
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+<!---LeetCode Topics End-->
