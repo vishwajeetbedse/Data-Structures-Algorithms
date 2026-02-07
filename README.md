@@ -3,7 +3,7 @@
 Welcome to my repository for LeetCode solutions! This repo serves as a digital journal of my journey through competitive programming and algorithmic problem-solving.
 
 ## 🛠️ Tech Stack
-* **Languages:** C++, Java
+* **Languages:** C++, Java, Python
 * **Tools:** LeetHub (Automatic Sync)
 * **Platform:** [LeetCode](https://leetcode.com/u/Vishwajeet_Bedse/)
 
@@ -21,6 +21,6 @@ The solutions are organized by the LeetHub extension, typically following this h
 
 ## 🔗 Useful Resources
 * [NeetCode Roadmap](https://neetcode.io/roadmap)
-* [Striver’s A2Z DSA Course]([https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z))
+* [Striver’s A2Z DSA Course]([https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z])
 
 ---
