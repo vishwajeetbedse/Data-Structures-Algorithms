@@ -39,4 +39,16 @@ The solutions are organized by the LeetHub extension, typically following this h
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
