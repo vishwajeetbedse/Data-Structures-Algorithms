@@ -37,6 +37,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3714-longest-balanced-substring-ii](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/3714-longest-balanced-substring-ii) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Sliding Window
 |  |
 | ------- |
@@ -61,4 +62,12 @@ The solutions are organized by the LeetHub extension, typically following this h
 |  |
 | ------- |
 | [0799-champagne-tower](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0799-champagne-tower) |
+## Stack
+|  |
+| ------- |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/3746-minimum-string-length-after-balanced-removals) |
+## Counting
+|  |
+| ------- |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/3746-minimum-string-length-after-balanced-removals) |
 <!---LeetCode Topics End-->
