@@ -38,6 +38,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3714-longest-balanced-substring-ii](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/3714-longest-balanced-substring-ii) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [3798-largest-even-number](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/3798-largest-even-number) |
 ## Sliding Window
 |  |
 | ------- |
