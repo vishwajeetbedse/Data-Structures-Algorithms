@@ -57,4 +57,8 @@ The solutions are organized by the LeetHub extension, typically following this h
 |  |
 | ------- |
 | [3714-longest-balanced-substring-ii](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/3714-longest-balanced-substring-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0799-champagne-tower](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0799-champagne-tower) |
 <!---LeetCode Topics End-->
