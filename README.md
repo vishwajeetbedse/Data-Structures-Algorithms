@@ -80,8 +80,13 @@ The solutions are organized by the LeetHub extension, typically following this h
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0067-add-binary) |
+| [0401-binary-watch](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0401-binary-watch) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0067-add-binary) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
