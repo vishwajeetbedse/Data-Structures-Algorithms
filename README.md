@@ -31,6 +31,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
 | [3714-longest-balanced-substring-ii](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/3714-longest-balanced-substring-ii) |
 ## String
 |  |
@@ -89,4 +90,12 @@ The solutions are organized by the LeetHub extension, typically following this h
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0401-binary-watch) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
