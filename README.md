@@ -32,12 +32,14 @@ The solutions are organized by the LeetHub extension, typically following this h
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0242-valid-anagram) |
 | [3714-longest-balanced-substring-ii](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/3714-longest-balanced-substring-ii) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0242-valid-anagram) |
 | [3714-longest-balanced-substring-ii](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/3714-longest-balanced-substring-ii) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3798-largest-even-number](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/3798-largest-even-number) |
@@ -98,4 +100,5 @@ The solutions are organized by the LeetHub extension, typically following this h
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
