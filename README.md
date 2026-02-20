@@ -98,6 +98,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 | ------- |
 | [0075-sort-colors](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1929-concatenation-of-array](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
