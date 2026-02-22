@@ -84,6 +84,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 | ------- |
 | [0067-add-binary](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0067-add-binary) |
 | [0401-binary-watch](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0401-binary-watch) |
+| [0868-binary-gap](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0868-binary-gap) |
 ## Simulation
 |  |
 | ------- |
