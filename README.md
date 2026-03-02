@@ -108,6 +108,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 | [0075-sort-colors](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1929-concatenation-of-array](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
@@ -139,4 +140,12 @@ The solutions are organized by the LeetHub extension, typically following this h
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Greedy
+|  |
+| ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+## Matrix
+|  |
+| ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 <!---LeetCode Topics End-->
