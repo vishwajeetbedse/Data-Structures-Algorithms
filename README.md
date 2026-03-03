@@ -75,6 +75,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 ## Stack
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1441-build-an-array-with-stack-operations) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Counting
 |  |
@@ -98,6 +99,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 | ------- |
 | [0067-add-binary](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1441-build-an-array-with-stack-operations](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1441-build-an-array-with-stack-operations) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1929-concatenation-of-array](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1929-concatenation-of-array) |
 ## Backtracking
@@ -110,6 +112,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 | [0075-sort-colors](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1441-build-an-array-with-stack-operations](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1441-build-an-array-with-stack-operations) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1929-concatenation-of-array](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1929-concatenation-of-array) |
 ## Sorting
