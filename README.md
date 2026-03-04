@@ -114,6 +114,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1441-build-an-array-with-stack-operations) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1929-concatenation-of-array](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
@@ -153,6 +154,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Recursion
 |  |
 | ------- |
