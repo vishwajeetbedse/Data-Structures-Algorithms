@@ -72,6 +72,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0120-triangle) |
 | [0799-champagne-tower](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0799-champagne-tower) |
 ## Stack
 |  |
@@ -111,6 +112,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0075-sort-colors) |
+| [0120-triangle](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0120-triangle) |
 | [0217-contains-duplicate](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1441-build-an-array-with-stack-operations) |
