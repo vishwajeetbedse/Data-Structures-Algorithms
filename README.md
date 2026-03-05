@@ -44,6 +44,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3714-longest-balanced-substring-ii](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/3714-longest-balanced-substring-ii) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/3746-minimum-string-length-after-balanced-removals) |
