@@ -46,6 +46,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3714-longest-balanced-substring-ii](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/3714-longest-balanced-substring-ii) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -54,6 +55,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Tree
 |  |
 | ------- |
@@ -75,6 +77,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 | ------- |
 | [0120-triangle](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0120-triangle) |
 | [0799-champagne-tower](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0799-champagne-tower) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Stack
 |  |
 | ------- |
