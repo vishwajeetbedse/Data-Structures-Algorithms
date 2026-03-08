@@ -34,6 +34,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 | [0217-contains-duplicate](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0242-valid-anagram) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1980-find-unique-binary-string](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1980-find-unique-binary-string) |
 | [3714-longest-balanced-substring-ii](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/3714-longest-balanced-substring-ii) |
 ## String
 |  |
@@ -47,6 +48,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1980-find-unique-binary-string) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3714-longest-balanced-substring-ii](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/3714-longest-balanced-substring-ii) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -112,6 +114,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0401-binary-watch) |
+| [1980-find-unique-binary-string](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1980-find-unique-binary-string) |
 ## Array
 |  |
 | ------- |
@@ -123,6 +126,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1929-concatenation-of-array](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1929-concatenation-of-array) |
+| [1980-find-unique-binary-string](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1980-find-unique-binary-string) |
 ## Sorting
 |  |
 | ------- |
