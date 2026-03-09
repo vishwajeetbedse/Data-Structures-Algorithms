@@ -113,11 +113,13 @@ The solutions are organized by the LeetHub extension, typically following this h
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0046-permutations) |
 | [0401-binary-watch](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0401-binary-watch) |
 | [1980-find-unique-binary-string](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1980-find-unique-binary-string) |
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0120-triangle) |
 | [0217-contains-duplicate](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
