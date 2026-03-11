@@ -100,6 +100,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 | [0067-add-binary](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0067-add-binary) |
 | [0401-binary-watch](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0401-binary-watch) |
 | [0868-binary-gap](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0868-binary-gap) |
+| [1009-complement-of-base-10-integer](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1009-complement-of-base-10-integer) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Simulation
