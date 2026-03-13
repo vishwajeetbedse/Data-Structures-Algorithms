@@ -41,6 +41,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0067-add-binary) |
+| [0151-reverse-words-in-a-string](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0242-valid-anagram) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -140,6 +141,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 ## Rolling Hash
 |  |
 | ------- |
