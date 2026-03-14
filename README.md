@@ -45,6 +45,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 | [0067-add-binary](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0344-reverse-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -145,6 +146,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 | ------- |
 | [0075-sort-colors](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0151-reverse-words-in-a-string) |
+| [0344-reverse-string](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0344-reverse-string) |
 ## Rolling Hash
 |  |
 | ------- |
