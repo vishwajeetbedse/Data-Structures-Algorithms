@@ -127,6 +127,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0011-container-with-most-water) |
 | [0046-permutations](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0120-triangle) |
@@ -147,6 +148,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0344-reverse-string) |
@@ -173,6 +175,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0011-container-with-most-water) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Matrix
 |  |
