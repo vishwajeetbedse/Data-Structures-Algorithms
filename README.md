@@ -34,6 +34,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 | [0012-integer-to-roman](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0496-next-greater-element-i) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1980-find-unique-binary-string) |
 | [3714-longest-balanced-substring-ii](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/3714-longest-balanced-substring-ii) |
@@ -87,6 +88,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0496-next-greater-element-i) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1441-build-an-array-with-stack-operations) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Counting
@@ -129,6 +131,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 | [0075-sort-colors](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0120-triangle) |
 | [0217-contains-duplicate](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
+| [0496-next-greater-element-i](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0496-next-greater-element-i) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1441-build-an-array-with-stack-operations) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -180,4 +183,8 @@ The solutions are organized by the LeetHub extension, typically following this h
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
