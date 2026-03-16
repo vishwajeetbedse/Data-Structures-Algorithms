@@ -56,6 +56,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1980-find-unique-binary-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3714-longest-balanced-substring-ii](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/3714-longest-balanced-substring-ii) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -102,6 +103,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 | ------- |
 | [0012-integer-to-roman](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0067-add-binary) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Bit Manipulation
 |  |
@@ -180,6 +182,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 | ------- |
 | [0011-container-with-most-water](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0011-container-with-most-water) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Matrix
 |  |
 | ------- |
