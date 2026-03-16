@@ -196,4 +196,8 @@ The solutions are organized by the LeetHub extension, typically following this h
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0496-next-greater-element-i) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
