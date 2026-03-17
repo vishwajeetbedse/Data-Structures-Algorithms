@@ -142,6 +142,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 | [1441-build-an-array-with-stack-operations](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1441-build-an-array-with-stack-operations) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1929-concatenation-of-array](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1980-find-unique-binary-string) |
 ## Sorting
@@ -150,6 +151,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 | [0075-sort-colors](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0242-valid-anagram) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -182,12 +184,14 @@ The solutions are organized by the LeetHub extension, typically following this h
 | ------- |
 | [0011-container-with-most-water](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0011-container-with-most-water) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Matrix
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Recursion
 |  |
 | ------- |
