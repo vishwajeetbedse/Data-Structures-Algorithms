@@ -46,6 +46,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 | [0008-string-to-integer-atoi](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0242-valid-anagram) |
@@ -92,6 +93,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0496-next-greater-element-i) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1441-build-an-array-with-stack-operations) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/3746-minimum-string-length-after-balanced-removals) |
