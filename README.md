@@ -136,6 +136,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0011-container-with-most-water) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0120-triangle) |
@@ -210,4 +211,8 @@ The solutions are organized by the LeetHub extension, typically following this h
 | [0181-employees-earning-more-than-their-managers](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0620-not-boring-movies) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
