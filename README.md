@@ -147,6 +147,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1980-find-unique-binary-string) |
 ## Sorting
@@ -196,6 +197,7 @@ The solutions are organized by the LeetHub extension, typically following this h
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vishwajeetbedse/Data-Structures-Algorithms/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Recursion
 |  |
 | ------- |
